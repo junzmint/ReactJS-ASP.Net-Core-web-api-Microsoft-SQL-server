@@ -1,2 +1,2 @@
-1. Vào API/API/sln và Run IIS Express
-2. Vào Wikimdb_ui, bật cmd và gõ npm start
+1. API/API/sln and Run IIS Express
+2. Wikimdb_ui, Using cmd and type "npm start"
